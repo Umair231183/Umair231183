@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 👨‍💻 All of my projects are available at [portfolio-website-qx8r-di3np72jg-hafizmuhammadumairs-projects.vercel.app](portfolio-website-qx8r-di3np72jg-hafizmuhammadumairs-projects.vercel.app)
+- 👨‍💻 All of my projects are available at https://portfolio-e9zm.vercel.app/
 
-- 💬 Ask me about **MEARN**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **hafizmuhammadumair016@gmail.com**
 
